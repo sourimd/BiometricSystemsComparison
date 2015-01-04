@@ -1,0 +1,15 @@
+This code can be used to compare performances of two Biometric Systems.
+As an input two Similarity Matrices were given and based on the Genuine
+and Imposter Scores Genuine/Imposter Score Distribution, CMC and DET curves
+of the two systems can be plotted and compared. Find sample report on the
+docx file.
+
+The code can also be used to plot variation of False Acceptance Rate and
+False Rejection Rate with Threshold Operating Points and compute FRR at a
+particular FAR.
+
+You will need IPython Notebook to open the .ipynb file. Use the following
+to install it: pip install Ipython[all].
+
+I have used a number of packages in this project.
+Do $ pip install <package-name> to install the corresponding package.
